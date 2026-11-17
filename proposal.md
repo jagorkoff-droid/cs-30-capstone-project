@@ -11,8 +11,7 @@
     <li>Multiple weapons, cycled through using the mouse scroll wheel, or the number keys on the keyboard</li>
     <li>Recoil and spray patterns, recoil is variable for each gun</li>
     <li>A purchasing menu with a credit system that allows you to buy different weapons</li>
-<ul>
-
+</ul>
 
 ## Nice to have
 <ul>
@@ -21,4 +20,4 @@
     <li>Create a node.js backend server using Websockets or WebRTC, this server must run a “headless” version of the physics engine to verify player positions and confirm hits</li>
     <li>Use Electron or Tauri to package the HTML/p5.js code into a standalone .exe or .app</li>
     <li>Must integrate Steamworks.js library inside Electron app to use Steam features</li>
-<ul>
+</ul>
