@@ -1,5 +1,5 @@
 # Description
-3D online first-person shooter game, 2 teams in a bomb planters vs bomb defenders scenario
+3D online first-person shooter game, 2 teams in a bomb planters vs bomb defenders scenario.
 
 
 ## Needs to have:
@@ -18,5 +18,3 @@
 - Create a node.js backend server using Websockets or WebRTC, this server must run a “headless” version of the physics engine to verify player positions and confirm hits
 - Use Electron or Tauri to package the HTML/p5.js code into a standalone .exe or .app
 - Must integrate Steamworks.js library inside Electron app to use Steam features
-
-
